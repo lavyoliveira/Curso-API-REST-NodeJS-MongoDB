@@ -14,7 +14,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * **npm run dev** para rodar a API localmente.
 #### :round_pushpin: O servidor atualmente escuta na porta 3000 caso seja executado localmente.
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas e linguagens
 ![node_js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
